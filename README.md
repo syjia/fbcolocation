@@ -1,5 +1,7 @@
-# Two quick start guides are provided to help you jump start with the FB Co-location data and FB Disaster Maps data.
+# Quick Start Guides for Facebook Co-Location Data and Disaster Maps
+
+Two quick start guides are provided to help you jump start with the FB Co-location data and FB Disaster Maps data.
 Contact for questions and comments:
-### Shenyue Jia
+###### Shenyue Jia
 sjia@chapman.edu
-### Center of Excellence in Earth Systems Modeling and Observations, Chapman University, Orange, California USA
+###### Center of Excellence in Earth Systems Modeling and Observations, Chapman University, Orange, California USA
